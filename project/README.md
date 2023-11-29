@@ -1,16 +1,13 @@
-# leitor_de_ebooks
+Criado Projeto para leitura de Livros do formato .epub. 
 
-A new Flutter project.
+O aplicativo consome uma api que retorna uma lista de livros e as urls para donwload. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![1701288604915](image/README/1701288604915.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para rodar o aplicativo basta ter o Flutter instalado em sua máquina. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No repositorio é possível encontrar uma versão buildada do tipo .apk.
+
+O projeto ainda não esta finalizado, tem algumas taks que seram implementadas futuramente.
